@@ -815,7 +815,7 @@ def show_conclusion():
         ### 참고사항
 
         본 프로젝트의 데이터 분석 과정에서, 지하철역 주변의 시설 분포 확인 및 누락된 위도, 경도를 채워넣기 위해 Google Maps API를 활용하였다.
-        다만 보안을 위해 Google Maps API는 최종 코드에서 제외하였으며, 필요시 project2.ipynb의 파일이 7번 셀에 API를 넣는다면 분석 과정을 재현할 수 있다.
+        다만 보안을 위해 Google Maps API는 최종 코드에서 제외하였으며, 필요시 project2.ipynb의 파일에 7번 셀에 API를 넣는다면 분석 과정을 재현할 수 있다.
 
         Google Maps API가 활용된 코드는 다음과 같다.
         - 지하철역 주변의 시설 분포 확인 (project2.ipynb 파일의 9번 셀)
